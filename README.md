@@ -1,7 +1,7 @@
 # Codecademy-practice
 ### 📝 Description:
 
-To restore and strengthen my knowledge in the fundamentals of JavaScript, I enrolled in [Codecademy JavaScript course](https://www.codecademy.com/learn/introduction-to-javascript). In this repository, I post every project I am working on during this course to keep track of my learning journey.
+To restore and strengthen my knowledge in the fundamentals of JavaScript, I enrolled in [Codecademy JavaScript course](https://www.codecademy.com/learn/introduction-to-javascript). In this repository, I upload every project I am working on during this course to keep track of my learning journey.
 
 ### ✏️ Syllabus and my progress:
 - [X] Data types, built-in methods, and variables
