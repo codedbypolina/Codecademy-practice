@@ -6,7 +6,7 @@ To restore and strengthen my knowledge in the fundamentals of JavaScript, I enro
 ### ✏️ Syllabus and my progress:
 - [X] Data types, built-in methods, and variables
 - [X] Conditionals
-- [ ] Functions
+- [X] Functions
 - [ ] Scope
 - [ ] Arrays
 - [ ] Loops
