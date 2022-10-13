@@ -130,3 +130,15 @@ Code example from MDN, breaking down step by step each technique👇
 a => a + 100;
 ```
 </details>
+
+#### ✓  Scope
+- This section reconfirmed my existing knowledge of avoiding scope pollution by aiming to assign variables locally, not globally and to not reuse variable names within the global and local scopes.
+<details>
+ <summary>Benefits of Practicing Good Scoping</summary>
+ 
+- It will make your code more legible since the blocks will organize your code into discrete sections.
+- It makes your code more understandable
+- It’s easier to maintain your code, since your code will be modular.
+- It will save memory in your code because it will cease to exist after the block finishes running.
+
+</details>
