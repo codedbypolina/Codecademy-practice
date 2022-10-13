@@ -7,7 +7,7 @@ To restore and strengthen my knowledge in the fundamentals of JavaScript, I enro
 - [X] Data types, built-in methods, and variables
 - [X] Conditionals
 - [X] Functions
-- [ ] Scope
+- [X] Scope
 - [ ] Arrays
 - [ ] Loops
 - [ ] Iterators
