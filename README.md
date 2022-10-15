@@ -8,7 +8,7 @@ To restore and strengthen my knowledge in the fundamentals of JavaScript, I enro
 - [X] Conditionals
 - [X] Functions
 - [X] Scope
-- [ ] Arrays
+- [X] Arrays
 - [ ] Loops
 - [ ] Iterators
 - [ ] Objects
@@ -142,3 +142,13 @@ a => a + 100;
 - It will save memory in your code because it will cease to exist after the block finishes running.
 
 </details>
+
+#### ✓  Arrays
+- When we use `const` to declare an array, elements in an array remain mutable - we can still change the contents of a const array, but cannot reassign a new array or a different value.
+- While I heard of nested arrays, I haven't worked with them yet, so it was a nice to learn that to access elements in nested arrays chain indices using bracket notation. Example:
+```
+const nestedArr = [[1], [2, 3]];
+ 
+console.log(nestedArr[1]); // Output: [2, 3]
+console.log(nestedArr[1][0]); // Output: 2
+```
