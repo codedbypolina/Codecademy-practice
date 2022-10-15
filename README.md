@@ -9,7 +9,7 @@ To restore and strengthen my knowledge in the fundamentals of JavaScript, I enro
 - [X] Functions
 - [X] Scope
 - [X] Arrays
-- [ ] Loops
+- [X] Loops
 - [ ] Iterators
 - [ ] Objects
 
@@ -152,3 +152,8 @@ const nestedArr = [[1], [2, 3]];
 console.log(nestedArr[1]); // Output: [2, 3]
 console.log(nestedArr[1][0]); // Output: 2
 ```
+
+#### ✓  Loops
+- Loops used to be the hardest concept for me to learn, but after taking a course on JavaScript, Python and C, I am much more confident with loops and other foundations of programming languages. Thus it was very easy to go through this section
+- I hardly practiced `do...while` loops, and wasn't sure when it would be appropriate to use this loop over `while` loop. This course clarified it for me! To sum it up, `do...while` loops will run the code at least once no matter what and it will check the stopping condition only after the first execution.
+- I was also introduced to `break` for the first time in loops.
