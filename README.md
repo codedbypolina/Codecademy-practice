@@ -157,3 +157,12 @@ console.log(nestedArr[1][0]); // Output: 2
 - Loops used to be the hardest concept for me to learn, but after taking a course on JavaScript, Python and C, I am much more confident with loops and other foundations of programming languages. Thus it was very easy to go through this section
 - I hardly practiced `do...while` loops, and wasn't sure when it would be appropriate to use this loop over `while` loop. This course clarified it for me! To sum it up, `do...while` loops will run the code at least once no matter what and it will check the stopping condition only after the first execution.
 - I was also introduced to `break` for the first time in loops.
+
+#### ✓  Higher-Order Functions
+- Probably the most useful section so far as it teaches me of the concept I didn't know about before. such as:
+- Functions are <em>first class objects</em> => JS functions can have properties and methods.
+- <em>A higher-order function</em> is a function that either accepts functions as parameters, returns a function, or both. Functions that get passed in as parameters <em>callback functions</em>. Callback functions get invoked during the execution of the higher-order function.
+- A function with no name is called an <em>anonymous function</em>.
+
+### 🗒 Notes:
+- Learn the concept of [Mutability in JS](https://www.youtube.com/watch?v=pslr6SWXFjQ)
